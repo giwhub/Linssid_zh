@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=2.9
+Name=LinSSID
+GenericName=
+Comment=Find local wireless attach points
+Comment[zh_CN]=寻找您当地的无线连接点
+Exec=linssid
+Icon=/usr/share/pixmaps/linssid48.png
+Terminal=false
+Type=Application
+Categories=Application;Network;Internet;
+Name[en]=LinSSID
+Name[en_US]=linssid
